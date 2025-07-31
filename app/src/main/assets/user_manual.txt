@@ -1,0 +1,50 @@
+Welcome to PROJEMANAG!
+
+We are thrilled to have you with us.
+If you are using this app for the first time, welcome aboard. If you are a returning user seeking guidance, welcome back, we are here to support you every step of the way.
+
+Here is a short and easy to understand manual of this app to unlock it's full potential!
+
+Getting Started:
+
+1. After completing your registration, you will land on the main screen of the app.
+2. Tapping the menu button will present you with three options: My Profile, User Manual and Sign Out.
+3. In My Profile, you can upload a profile image and add your contact number. Your name, email address, and profile picture will be visible to other users. While your name and number can be edited at any time, your email address is fixed and cannot be changed once added.
+4. The Sign Out option allows you to log out of the app. You can always sign back in whenever you wish, no worries there.
+
+Creating Your First Board:
+
+On the main screen, you will notice a plus sign icon. This is used to create a new board. You can name the board and optionally add an image to represent it.
+For example, imagine Nashrah and Siddhi are roommates and want to divide household chores. Nashrah can create a board named "Chores" to keep everything organized.
+
+Adding Members to Your Board:
+
+Once your board is set up, tap the three dots in the top-right corner to add members. Please note that only registered users of PROJEMANAG can be added to a board.
+In the example above, Nashrah, who created the "Chores" board, adds Siddhi by entering her registered email address.
+
+Creating Lists and Cards:
+
+1. After inviting members, you can start creating lists under your board. For instance, Siddhi might create two lists: one for morning chores and another for evening chores.
+2. Within each list, you can add individual task cards.
+For example, under "Morning Chores", you might add a card called "Take out garbage". By clicking on the card, you can assign it to a member and apply a color label. If Siddhi is responsible for taking out the garbage, the task can be assigned to her and marked with a red color. Similarly, if Nashrah is making breakfast, that task can be assigned to her and also labeled red. Once tasks are completed, their color can be changed to green to indicate that they are done. Several color options are available for better visual tracking.
+
+This way, you can continue to create as many boards, lists, and tasks as needed, it is a powerful way to stay organized and collaborate effectively.
+
+Who Can Use PROJEMANAG?
+
+From students to professionals, anyone can use PROJEMANAG to stay productive. Whether you're managing assignments, team projects, personal goals, or events, this app is designed to help you plan, assign, and accomplish tasks efficiently.
+
+Use Case Examples:
+
+1. John, a college student, uses PROJEMANAG to manage his daily tasks and academic assignments by creating a personal board with a list of to-dos and deadlines.
+2. Emily, a marketing manager, creates a project board for her team to coordinate a product launch. She assigns roles, sets priorities, and monitors progress, all within the app.
+3. Dr. Lee, a university professor, manages his research project using PROJEMANAG. He creates tasks for his graduate students and tracks each phase of the work to ensure timely completion.
+4. Sarah, a wedding planner, uses PROJEMANAG to handle vendor coordination, task lists, and event timelines. Each wedding has its own dedicated board, allowing her to manage details seamlessly.
+
+PROJEMANAG is your all-in-one solution for planning, managing, and staying organized, no matter who you are or what you do.
+
+Still Need Help?
+
+If you are unsure about anything or need additional guidance, feel free to reach out to us.
+Email: nashrahshaikh6@gmail.com
+
